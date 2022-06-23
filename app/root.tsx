@@ -15,8 +15,9 @@ export function links() {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "Jorge [barron]",
   viewport: "width=device-width,initial-scale=1",
+  description: "Jorge Barrón - Self-taught software engineer, technology lover, and family man."
 });
 
 export default function App() {
